@@ -1,0 +1,501 @@
+Fecha,Producto,Categoría,Cantidad,Precio,Región
+2024-04-17,Tablet,Electronics,18,10.92,South
+2024-08-25,Headphones,Electronics,20,196.54,North
+2024-10-03,Vacuum Cleaner,Home & Kitchen,19,33.98,West
+2023-05-01,Biography,Books,6,471.88,East
+2024-10-31,Puzzle,Toys,14,182.31,West
+2023-06-27,RC Car,Toys,6,397.75,South
+2024-06-24,Mystery,Books,17,480.32,South
+2023-05-05,Vacuum Cleaner,Home & Kitchen,11,233.57,South
+2024-08-22,Fiction,Books,19,132.61,East
+2023-04-16,Smartphone,Electronics,2,243.46,West
+2023-07-02,Smartwatch,Electronics,16,209.77,East
+2023-10-10,Microwave,Home & Kitchen,15,455.77,East
+2023-02-09,Laptop,Electronics,16,6.03,West
+2023-12-08,Tablet,Electronics,16,221.31,North
+2024-04-06,Headphones,Electronics,4,312.52,North
+2023-09-25,Biography,Books,5,346.86,East
+2023-06-18,Microwave,Home & Kitchen,18,486.83,East
+2024-04-14,Shoes,Clothing,13,211.61,West
+2024-04-01,Blender,Home & Kitchen,14,52.68,East
+2022-12-12,Action Figure,Toys,1,143.25,North
+2024-09-29,Mystery,Books,18,376.69,West
+2024-06-16,Action Figure,Toys,4,326.36,East
+2024-07-06,Mystery,Books,11,344.25,South
+2023-04-25,Biography,Books,17,117.3,North
+2023-03-24,Board Game,Toys,19,10.68,East
+2023-12-01,Laptop,Electronics,5,372.93,South
+2024-05-06,Vacuum Cleaner,Home & Kitchen,9,295.39,East
+2024-04-08,Smartphone,Electronics,16,170.67,West
+2024-08-16,Laptop,Electronics,9,375.91,East
+2022-12-30,Toaster,Home & Kitchen,12,370.24,West
+2024-03-17,Microwave,Home & Kitchen,9,249.47,North
+2023-04-05,T-shirt,Clothing,7,24.61,North
+2024-01-08,Tablet,Electronics,8,108.63,South
+2024-08-12,Mystery,Books,6,79.11,West
+2024-07-22,Vacuum Cleaner,Home & Kitchen,13,51.7,South
+2024-06-05,Lego Set,Toys,8,85.1,East
+2024-06-27,Puzzle,Toys,8,396.67,South
+2024-05-26,Puzzle,Toys,13,417.41,North
+2024-07-13,Lego Set,Toys,5,459.32,North
+2023-07-28,Toaster,Home & Kitchen,13,408.16,East
+2023-07-27,Vacuum Cleaner,Home & Kitchen,20,226.07,South
+2024-06-01,Smartwatch,Electronics,15,39.51,East
+2023-05-12,Blender,Home & Kitchen,6,91.81,West
+2023-06-07,Microwave,Home & Kitchen,7,433.72,West
+2023-01-08,Mystery,Books,19,386.27,West
+2023-06-07,T-shirt,Clothing,3,8.91,North
+2024-03-11,Vacuum Cleaner,Home & Kitchen,3,61.04,North
+2024-04-20,Dress,Clothing,16,447.47,North
+2022-12-06,Tablet,Electronics,9,31.74,South
+2023-01-08,Microwave,Home & Kitchen,19,138.45,East
+2024-03-27,Non-Fiction,Books,19,440.27,East
+2023-08-19,Laptop,Electronics,19,241.43,East
+2024-08-30,Lego Set,Toys,12,330.39,East
+2024-07-13,Blender,Home & Kitchen,3,150.1,East
+2023-12-26,Tablet,Electronics,1,484.81,South
+2024-10-25,Board Game,Toys,15,373.96,East
+2023-03-10,Mystery,Books,13,300.58,West
+2023-11-25,Headphones,Electronics,15,392.97,North
+2024-07-24,Board Game,Toys,3,225.25,North
+2023-06-15,Toaster,Home & Kitchen,5,25.28,North
+2022-12-12,Laptop,Electronics,15,261.42,North
+2024-11-03,Board Game,Toys,13,55.66,South
+2024-11-16,Vacuum Cleaner,Home & Kitchen,18,315.78,South
+2024-06-01,Action Figure,Toys,20,404.67,South
+2023-11-18,Dress,Clothing,17,65.82,North
+2024-02-11,Jeans,Clothing,18,267.59,East
+2022-12-13,Cookware Set,Home & Kitchen,1,122.7,West
+2023-12-29,Action Figure,Toys,7,67.24,South
+2023-09-05,RC Car,Toys,1,370.67,East
+2023-04-15,Vacuum Cleaner,Home & Kitchen,17,72.3,North
+2023-01-18,Lego Set,Toys,13,314.29,South
+2023-02-08,Biography,Books,6,23.97,East
+2024-06-26,Smartphone,Electronics,1,331.62,North
+2023-08-19,Lego Set,Toys,18,238.23,West
+2024-05-30,Jeans,Clothing,19,82.26,South
+2024-10-26,Jeans,Clothing,5,288.89,West
+2023-08-11,Biography,Books,18,283.82,South
+2024-07-27,Microwave,Home & Kitchen,3,458.32,South
+2024-11-24,Blender,Home & Kitchen,11,448.75,South
+2023-06-30,Children,Books,9,38.98,South
+2024-01-12,Smartwatch,Electronics,4,163.75,East
+2023-08-10,Jacket,Clothing,10,139.31,North
+2024-10-30,Children,Books,16,147.06,West
+2023-05-14,Smartwatch,Electronics,14,284.42,North
+2024-07-30,Action Figure,Toys,20,487.7,South
+2024-09-01,Puzzle,Toys,18,326.39,North
+2024-03-10,Tablet,Electronics,18,360.09,South
+2023-10-01,Cookware Set,Home & Kitchen,20,496.85,West
+2024-03-05,Blender,Home & Kitchen,3,457.28,North
+2024-07-26,Laptop,Electronics,1,412.82,East
+2023-05-14,Mystery,Books,14,87.2,South
+2024-02-04,Fiction,Books,18,258.52,North
+2023-06-10,Microwave,Home & Kitchen,7,188.29,West
+2023-02-04,Headphones,Electronics,9,120.89,East
+2024-01-26,RC Car,Toys,20,135.86,North
+2024-07-08,Smartphone,Electronics,12,113.46,North
+2023-11-16,Dress,Clothing,4,265.72,South
+2023-11-16,Non-Fiction,Books,19,470.69,East
+2022-12-21,Mystery,Books,13,183.99,East
+2023-05-14,Jeans,Clothing,3,62.52,South
+2024-10-02,Cookware Set,Home & Kitchen,13,364.11,East
+2023-03-24,Non-Fiction,Books,8,464.67,North
+2023-03-15,Shoes,Clothing,2,257.36,North
+2024-03-15,Non-Fiction,Books,16,131.83,South
+2024-11-02,Puzzle,Toys,4,39.07,North
+2024-04-01,Board Game,Toys,15,110.18,South
+2024-08-30,Headphones,Electronics,20,238.74,South
+2023-09-20,Cookware Set,Home & Kitchen,1,349.53,West
+2023-08-26,Microwave,Home & Kitchen,11,412.85,South
+2024-06-15,Puzzle,Toys,4,387.38,West
+2023-10-23,Tablet,Electronics,7,311.08,West
+2023-05-16,Tablet,Electronics,18,467.33,North
+2023-02-05,Smartphone,Electronics,8,153.43,East
+2024-04-20,Jacket,Clothing,5,490.01,South
+2023-04-04,Vacuum Cleaner,Home & Kitchen,3,257.99,West
+2022-12-03,Non-Fiction,Books,9,464.44,South
+2023-08-10,Mystery,Books,11,149.57,North
+2023-09-23,Dress,Clothing,9,29.04,South
+2023-12-05,RC Car,Toys,11,457.53,West
+2023-12-23,RC Car,Toys,10,330.32,South
+2024-07-05,Toaster,Home & Kitchen,9,156.24,South
+2023-11-08,Children,Books,8,110.29,North
+2024-11-04,Mystery,Books,1,331.37,West
+2024-01-20,Laptop,Electronics,9,425.35,East
+2023-07-28,Puzzle,Toys,9,202.51,South
+2024-09-19,Laptop,Electronics,15,40.86,South
+2024-04-10,Headphones,Electronics,4,424.07,East
+2024-05-25,Children,Books,1,404.97,South
+2022-12-04,Jeans,Clothing,16,157.17,North
+2023-04-30,Fiction,Books,8,374.85,South
+2024-10-27,Smartphone,Electronics,10,290.33,East
+2024-03-03,Fiction,Books,4,339.68,West
+2023-08-22,Dress,Clothing,17,343.08,North
+2024-04-26,Laptop,Electronics,3,163.31,South
+2024-02-27,Non-Fiction,Books,18,79.27,North
+2024-06-15,Action Figure,Toys,9,246.44,East
+2024-09-09,Jeans,Clothing,7,400.46,West
+2023-05-17,Tablet,Electronics,1,118.21,West
+2024-10-14,Cookware Set,Home & Kitchen,13,249.09,North
+2023-08-06,Vacuum Cleaner,Home & Kitchen,13,405.69,East
+2024-01-08,Laptop,Electronics,13,66.09,East
+2023-04-02,Children,Books,18,180.31,East
+2023-10-09,Jeans,Clothing,6,72.08,East
+2023-08-29,Children,Books,7,28.93,West
+2023-10-13,Puzzle,Toys,5,393.82,East
+2023-02-20,Tablet,Electronics,18,275.42,West
+2024-09-10,Vacuum Cleaner,Home & Kitchen,2,438.88,North
+2023-03-29,Blender,Home & Kitchen,2,166.28,West
+2024-05-20,Cookware Set,Home & Kitchen,3,142.08,West
+2024-03-26,Puzzle,Toys,20,52.35,West
+2024-09-15,Microwave,Home & Kitchen,6,83.41,South
+2022-12-13,Children,Books,1,216.84,East
+2024-04-09,Non-Fiction,Books,1,445.95,West
+2023-09-30,Fiction,Books,6,44.98,South
+2022-12-22,Fiction,Books,4,97.36,North
+2023-08-11,T-shirt,Clothing,5,110.3,North
+2024-01-16,Cookware Set,Home & Kitchen,7,78.45,North
+2023-01-16,T-shirt,Clothing,20,90.37,North
+2024-01-31,Biography,Books,18,196.9,North
+2024-07-23,Puzzle,Toys,4,247.36,North
+2024-07-20,Dress,Clothing,9,391.25,East
+2024-09-20,Board Game,Toys,4,470.59,West
+2023-05-05,Jeans,Clothing,16,469.72,East
+2024-08-13,RC Car,Toys,3,84.03,West
+2024-05-18,Tablet,Electronics,16,465.98,West
+2023-07-26,Mystery,Books,6,447.0,West
+2024-04-30,Dress,Clothing,20,312.43,South
+2024-07-29,Toaster,Home & Kitchen,5,456.5,West
+2023-05-06,Lego Set,Toys,3,284.68,West
+2024-09-03,Dress,Clothing,19,146.09,South
+2023-01-13,Biography,Books,17,11.71,South
+2023-08-08,Headphones,Electronics,6,18.81,East
+2023-08-18,Headphones,Electronics,5,399.97,North
+2023-12-06,Toaster,Home & Kitchen,15,343.24,West
+2024-09-19,Puzzle,Toys,10,322.56,West
+2024-09-21,Cookware Set,Home & Kitchen,9,224.09,West
+2023-11-05,Microwave,Home & Kitchen,13,488.0,North
+2023-07-13,Children,Books,13,81.85,North
+2023-07-29,Microwave,Home & Kitchen,11,69.28,South
+2023-06-29,Tablet,Electronics,20,127.01,East
+2023-10-26,Blender,Home & Kitchen,3,150.7,North
+2024-05-23,Laptop,Electronics,1,483.94,West
+2023-03-17,T-shirt,Clothing,9,311.21,West
+2023-11-05,Smartwatch,Electronics,17,443.32,North
+2023-05-18,Board Game,Toys,4,406.19,North
+2023-12-11,Smartwatch,Electronics,8,320.14,West
+2024-06-20,Fiction,Books,19,139.92,North
+2024-03-22,Headphones,Electronics,14,496.44,North
+2024-06-25,Fiction,Books,4,128.3,East
+2024-05-08,Children,Books,5,419.48,North
+2023-01-31,Biography,Books,11,46.06,West
+2023-02-02,Non-Fiction,Books,8,282.54,West
+2023-06-27,Smartphone,Electronics,10,363.41,North
+2023-06-02,Mystery,Books,1,24.37,North
+2023-02-08,Vacuum Cleaner,Home & Kitchen,11,294.12,North
+2023-07-08,Microwave,Home & Kitchen,16,494.44,West
+2023-12-17,Dress,Clothing,10,254.99,North
+2024-01-15,Lego Set,Toys,14,112.25,West
+2023-12-31,Jeans,Clothing,1,249.01,West
+2024-10-02,Smartphone,Electronics,1,271.25,East
+2024-02-06,Puzzle,Toys,15,201.69,East
+2024-03-19,Smartwatch,Electronics,9,469.41,North
+2023-11-18,Jeans,Clothing,12,402.49,West
+2023-01-03,Board Game,Toys,11,317.0,North
+2024-07-02,Shoes,Clothing,12,254.8,North
+2023-04-17,Shoes,Clothing,15,41.5,West
+2023-10-06,Headphones,Electronics,6,266.12,West
+2024-04-06,Dress,Clothing,19,233.0,West
+2024-02-28,Vacuum Cleaner,Home & Kitchen,4,170.88,East
+2024-10-09,Jeans,Clothing,20,317.69,West
+2023-04-16,Cookware Set,Home & Kitchen,8,80.8,South
+2023-03-17,T-shirt,Clothing,12,465.75,East
+2024-11-28,Shoes,Clothing,18,26.6,East
+2024-10-06,Fiction,Books,17,402.6,North
+2023-07-25,Smartphone,Electronics,9,471.37,North
+2023-12-22,Non-Fiction,Books,11,234.24,East
+2024-03-26,Shoes,Clothing,10,342.32,East
+2024-10-06,Vacuum Cleaner,Home & Kitchen,18,87.57,East
+2024-04-05,Biography,Books,11,32.81,South
+2023-11-17,Action Figure,Toys,15,463.46,West
+2023-09-15,Vacuum Cleaner,Home & Kitchen,6,257.78,South
+2023-10-05,Vacuum Cleaner,Home & Kitchen,5,155.77,South
+2023-08-16,Fiction,Books,14,159.87,North
+2024-07-19,RC Car,Toys,8,252.99,North
+2023-12-15,Puzzle,Toys,12,454.51,North
+2023-10-12,Tablet,Electronics,8,449.8,North
+2024-05-24,Jeans,Clothing,11,165.66,North
+2023-04-24,Board Game,Toys,14,334.79,West
+2023-07-31,Blender,Home & Kitchen,6,334.29,East
+2024-05-12,Jacket,Clothing,5,188.16,East
+2023-05-01,Smartwatch,Electronics,18,461.58,East
+2023-05-24,RC Car,Toys,7,14.04,South
+2024-03-14,Children,Books,4,222.58,East
+2023-10-30,Dress,Clothing,11,256.39,South
+2023-07-13,Vacuum Cleaner,Home & Kitchen,17,94.16,West
+2024-08-27,Board Game,Toys,17,104.25,East
+2024-02-14,Children,Books,18,164.12,South
+2023-03-05,Cookware Set,Home & Kitchen,5,338.84,East
+2024-01-21,Dress,Clothing,10,299.46,East
+2024-03-28,Dress,Clothing,10,436.02,North
+2024-05-07,Vacuum Cleaner,Home & Kitchen,1,458.07,East
+2024-09-10,Laptop,Electronics,19,419.55,North
+2024-05-07,Jeans,Clothing,14,151.69,South
+2023-06-02,Microwave,Home & Kitchen,16,401.13,East
+2024-02-09,Blender,Home & Kitchen,3,312.12,South
+2024-07-03,Jeans,Clothing,4,208.19,North
+2024-05-30,Mystery,Books,1,325.95,West
+2023-06-14,T-shirt,Clothing,10,325.62,South
+2024-05-05,Jacket,Clothing,4,499.29,North
+2024-02-26,Headphones,Electronics,14,98.87,North
+2024-02-12,Action Figure,Toys,19,319.34,South
+2023-05-08,Blender,Home & Kitchen,8,66.21,South
+2023-07-03,Mystery,Books,3,247.15,West
+2024-08-16,Children,Books,10,163.38,South
+2024-08-16,Smartwatch,Electronics,10,7.74,East
+2023-03-21,Vacuum Cleaner,Home & Kitchen,10,341.41,North
+2023-01-11,Biography,Books,20,436.14,North
+2023-11-18,Action Figure,Toys,20,354.26,West
+2024-07-06,Microwave,Home & Kitchen,3,291.99,West
+2023-03-04,Toaster,Home & Kitchen,1,353.24,West
+2024-03-26,Headphones,Electronics,14,219.89,South
+2023-12-10,Smartphone,Electronics,4,460.49,East
+2024-04-03,Fiction,Books,2,253.81,South
+2023-05-24,Vacuum Cleaner,Home & Kitchen,7,173.94,West
+2023-05-10,Vacuum Cleaner,Home & Kitchen,17,442.41,East
+2023-01-25,Dress,Clothing,20,182.35,South
+2024-09-24,Blender,Home & Kitchen,9,400.06,West
+2024-01-26,Smartwatch,Electronics,8,342.03,East
+2024-08-17,Children,Books,18,256.46,East
+2023-03-01,Jeans,Clothing,15,392.68,South
+2023-11-06,Microwave,Home & Kitchen,1,110.64,South
+2024-02-01,Fiction,Books,15,117.38,West
+2023-09-16,Dress,Clothing,2,33.1,West
+2024-04-30,Dress,Clothing,6,61.96,West
+2023-03-25,Jacket,Clothing,4,240.87,West
+2023-01-05,Vacuum Cleaner,Home & Kitchen,7,34.43,South
+2024-09-20,Mystery,Books,20,396.09,North
+2022-12-20,Vacuum Cleaner,Home & Kitchen,9,44.94,South
+2024-01-01,Fiction,Books,4,194.75,South
+2023-01-03,Microwave,Home & Kitchen,5,289.01,North
+2023-01-05,Dress,Clothing,9,130.98,West
+2023-09-02,Headphones,Electronics,4,351.21,South
+2023-12-27,Jeans,Clothing,1,133.66,North
+2024-09-09,Blender,Home & Kitchen,18,254.17,West
+2024-01-26,Non-Fiction,Books,10,394.22,East
+2024-08-08,Puzzle,Toys,5,286.71,West
+2024-02-25,Jeans,Clothing,18,405.7,West
+2023-05-13,Action Figure,Toys,12,50.38,North
+2023-04-17,Lego Set,Toys,17,464.79,West
+2024-04-25,Puzzle,Toys,9,426.96,West
+2024-04-21,Vacuum Cleaner,Home & Kitchen,2,232.79,South
+2023-07-19,Jacket,Clothing,18,123.29,South
+2023-12-05,Non-Fiction,Books,19,457.19,South
+2023-06-26,Biography,Books,19,200.09,South
+2024-09-22,Mystery,Books,10,452.29,East
+2023-09-08,Puzzle,Toys,8,482.06,North
+2024-09-02,T-shirt,Clothing,12,125.69,South
+2023-02-24,Board Game,Toys,2,479.73,North
+2023-12-16,Toaster,Home & Kitchen,5,326.55,North
+2023-12-16,Smartwatch,Electronics,8,84.41,North
+2024-06-20,Smartwatch,Electronics,6,282.4,South
+2024-02-13,Blender,Home & Kitchen,17,120.55,East
+2023-05-29,Dress,Clothing,7,31.99,North
+2024-10-01,Puzzle,Toys,16,402.52,West
+2023-12-08,Biography,Books,10,196.61,East
+2024-08-11,Dress,Clothing,12,23.05,East
+2023-03-04,RC Car,Toys,8,379.8,South
+2023-11-27,Vacuum Cleaner,Home & Kitchen,7,436.24,West
+2024-07-19,Fiction,Books,12,371.08,East
+2024-04-02,Smartphone,Electronics,4,413.0,South
+2023-11-08,Fiction,Books,13,378.04,East
+2024-05-12,Tablet,Electronics,16,320.86,East
+2024-01-22,Mystery,Books,4,490.89,East
+2024-04-07,Jeans,Clothing,7,128.98,South
+2023-04-06,Jacket,Clothing,8,20.16,East
+2024-11-18,Jeans,Clothing,8,249.59,South
+2024-01-03,Jeans,Clothing,4,233.07,West
+2024-11-30,Lego Set,Toys,11,351.59,South
+2024-04-18,Toaster,Home & Kitchen,17,201.13,East
+2022-12-27,Laptop,Electronics,6,102.21,North
+2024-09-23,Jeans,Clothing,7,177.69,North
+2023-01-03,Toaster,Home & Kitchen,13,293.66,West
+2023-01-14,Non-Fiction,Books,10,436.64,North
+2023-08-04,RC Car,Toys,2,452.2,West
+2024-01-12,Jacket,Clothing,16,405.93,South
+2024-02-26,Tablet,Electronics,17,445.32,South
+2023-01-21,Action Figure,Toys,15,28.23,South
+2023-09-02,Board Game,Toys,5,216.28,South
+2024-03-30,Dress,Clothing,11,15.25,South
+2024-07-24,Vacuum Cleaner,Home & Kitchen,14,247.75,North
+2023-05-31,Smartphone,Electronics,3,168.61,East
+2023-04-29,Toaster,Home & Kitchen,7,278.55,South
+2023-04-28,Fiction,Books,3,135.9,South
+2023-08-17,Smartphone,Electronics,14,432.32,North
+2022-12-26,Jacket,Clothing,11,318.87,North
+2024-11-01,Blender,Home & Kitchen,7,487.7,North
+2024-06-05,Shoes,Clothing,6,465.48,East
+2023-09-30,Mystery,Books,16,54.97,North
+2023-08-07,Fiction,Books,11,381.87,South
+2024-03-29,Laptop,Electronics,19,336.85,West
+2023-01-18,Shoes,Clothing,10,99.0,South
+2023-10-26,Jeans,Clothing,17,265.64,East
+2024-05-20,Puzzle,Toys,13,46.36,South
+2024-01-22,Mystery,Books,2,402.17,West
+2024-08-22,Headphones,Electronics,3,179.41,South
+2024-07-21,RC Car,Toys,19,277.87,East
+2024-02-08,Cookware Set,Home & Kitchen,14,240.69,East
+2023-12-27,T-shirt,Clothing,20,12.41,West
+2024-09-18,Non-Fiction,Books,1,375.74,East
+2023-01-08,Dress,Clothing,4,225.14,North
+2022-12-18,Board Game,Toys,19,191.32,North
+2024-11-12,Smartphone,Electronics,1,340.26,East
+2023-03-12,Vacuum Cleaner,Home & Kitchen,4,117.5,East
+2023-06-09,Non-Fiction,Books,17,362.82,South
+2024-08-20,Board Game,Toys,17,237.26,West
+2023-12-14,Action Figure,Toys,1,463.68,West
+2023-04-27,Action Figure,Toys,13,299.47,East
+2024-02-02,Tablet,Electronics,2,191.06,South
+2024-03-20,Board Game,Toys,2,336.82,South
+2023-04-13,Blender,Home & Kitchen,14,199.98,South
+2023-06-16,Toaster,Home & Kitchen,12,141.04,North
+2023-11-13,Cookware Set,Home & Kitchen,15,32.18,North
+2024-09-28,Laptop,Electronics,10,308.83,East
+2024-03-19,Lego Set,Toys,16,359.63,South
+2024-03-13,Headphones,Electronics,3,212.82,South
+2023-12-15,Cookware Set,Home & Kitchen,2,456.92,South
+2024-07-26,Fiction,Books,5,432.66,North
+2024-09-05,T-shirt,Clothing,15,393.92,North
+2024-09-22,Mystery,Books,3,353.53,North
+2023-06-07,Action Figure,Toys,16,85.52,North
+2023-07-06,RC Car,Toys,17,371.32,East
+2024-03-26,Smartwatch,Electronics,17,445.93,North
+2024-04-01,Toaster,Home & Kitchen,18,303.61,South
+2024-01-30,Vacuum Cleaner,Home & Kitchen,6,432.74,East
+2023-09-04,Smartphone,Electronics,18,166.54,West
+2024-11-19,Tablet,Electronics,13,407.24,North
+2023-08-16,Action Figure,Toys,8,405.68,East
+2024-10-22,Fiction,Books,6,171.21,East
+2023-01-16,Laptop,Electronics,13,201.55,East
+2024-01-11,Headphones,Electronics,17,278.09,South
+2023-07-24,Cookware Set,Home & Kitchen,15,126.43,West
+2024-03-08,Blender,Home & Kitchen,12,482.31,South
+2023-06-18,Fiction,Books,16,413.11,West
+2024-10-05,T-shirt,Clothing,14,191.35,East
+2023-03-16,Board Game,Toys,6,194.62,North
+2023-04-08,Smartwatch,Electronics,15,20.42,East
+2023-12-23,Action Figure,Toys,2,68.84,East
+2023-03-14,Mystery,Books,1,474.11,East
+2023-10-21,Action Figure,Toys,6,367.81,East
+2024-09-12,Action Figure,Toys,4,307.26,North
+2024-04-02,Tablet,Electronics,15,159.65,East
+2023-05-02,Cookware Set,Home & Kitchen,8,436.25,East
+2024-09-30,Toaster,Home & Kitchen,20,32.33,South
+2024-04-22,Lego Set,Toys,8,267.79,South
+2023-08-12,RC Car,Toys,4,216.16,South
+2024-07-11,Children,Books,13,84.8,West
+2024-09-25,Smartwatch,Electronics,13,300.41,West
+2024-03-07,Board Game,Toys,7,402.85,East
+2023-08-22,Blender,Home & Kitchen,2,263.24,North
+2023-05-14,Smartwatch,Electronics,11,194.54,East
+2023-11-05,T-shirt,Clothing,4,333.41,East
+2023-02-08,Lego Set,Toys,16,20.89,North
+2023-02-08,RC Car,Toys,13,284.52,North
+2023-10-31,Biography,Books,11,82.7,South
+2023-08-07,RC Car,Toys,10,296.02,South
+2023-05-19,Jacket,Clothing,6,39.1,South
+2023-04-18,Board Game,Toys,2,483.56,East
+2024-09-17,Cookware Set,Home & Kitchen,7,29.17,North
+2023-02-02,Cookware Set,Home & Kitchen,13,276.14,South
+2023-05-15,Puzzle,Toys,12,421.25,West
+2023-01-28,Cookware Set,Home & Kitchen,18,123.96,East
+2024-09-26,Toaster,Home & Kitchen,15,275.8,South
+2023-04-11,Smartwatch,Electronics,20,499.95,East
+2024-08-15,Non-Fiction,Books,10,80.88,West
+2023-04-18,Toaster,Home & Kitchen,3,487.42,West
+2023-08-31,Shoes,Clothing,8,428.36,South
+2023-11-23,Smartwatch,Electronics,1,43.34,South
+2023-02-19,RC Car,Toys,1,138.94,South
+2023-08-15,Jacket,Clothing,8,114.78,East
+2023-10-31,Smartphone,Electronics,18,435.72,South
+2024-06-24,Biography,Books,12,460.41,East
+2023-11-23,Lego Set,Toys,15,107.59,East
+2023-09-13,Fiction,Books,15,84.1,North
+2024-03-25,Fiction,Books,17,362.92,North
+2023-09-16,Puzzle,Toys,7,210.81,East
+2023-11-27,RC Car,Toys,3,402.37,East
+2023-12-08,Cookware Set,Home & Kitchen,5,480.57,North
+2023-06-14,Biography,Books,5,150.83,North
+2023-12-23,Children,Books,20,454.87,North
+2024-07-19,Lego Set,Toys,14,188.29,North
+2023-03-16,Puzzle,Toys,3,365.73,North
+2024-06-25,Vacuum Cleaner,Home & Kitchen,8,368.68,North
+2024-01-17,Dress,Clothing,1,84.11,North
+2022-12-06,Jeans,Clothing,3,393.95,West
+2023-09-02,Jeans,Clothing,16,272.72,South
+2023-01-23,Board Game,Toys,18,396.06,North
+2023-10-13,Toaster,Home & Kitchen,18,398.94,East
+2023-02-08,Vacuum Cleaner,Home & Kitchen,17,422.28,South
+2024-07-13,Smartphone,Electronics,2,11.61,South
+2023-02-11,Non-Fiction,Books,8,165.29,South
+2024-05-12,Puzzle,Toys,6,198.18,South
+2024-06-12,RC Car,Toys,9,41.21,East
+2023-02-10,Non-Fiction,Books,6,133.0,North
+2023-04-24,Jacket,Clothing,6,70.46,West
+2024-09-08,Smartwatch,Electronics,15,270.87,South
+2024-04-22,Tablet,Electronics,9,350.06,North
+2023-02-01,Lego Set,Toys,10,479.0,East
+2023-06-01,Fiction,Books,20,456.28,South
+2023-03-12,Lego Set,Toys,13,203.11,South
+2023-12-28,Blender,Home & Kitchen,4,36.32,North
+2023-02-05,Smartwatch,Electronics,13,169.39,South
+2023-11-27,Dress,Clothing,12,216.7,South
+2023-11-20,Puzzle,Toys,7,113.32,West
+2023-08-21,Jacket,Clothing,4,210.74,North
+2023-04-24,Cookware Set,Home & Kitchen,10,125.65,North
+2023-07-05,Cookware Set,Home & Kitchen,18,53.42,West
+2024-09-12,Non-Fiction,Books,15,16.95,North
+2023-06-01,Lego Set,Toys,14,261.64,South
+2024-08-03,Non-Fiction,Books,3,147.04,North
+2023-07-07,Mystery,Books,11,173.08,West
+2023-03-07,Tablet,Electronics,12,390.59,West
+2024-03-06,Smartwatch,Electronics,16,134.2,South
+2024-08-28,Jeans,Clothing,4,200.2,West
+2023-12-04,T-shirt,Clothing,17,295.89,East
+2024-11-19,Tablet,Electronics,3,304.16,West
+2024-06-03,Laptop,Electronics,12,130.82,East
+2023-01-26,Board Game,Toys,10,28.81,South
+2023-01-24,Tablet,Electronics,12,110.79,East
+2024-01-24,Puzzle,Toys,15,258.35,South
+2023-12-13,Smartwatch,Electronics,6,422.51,North
+2024-01-15,Action Figure,Toys,18,388.28,East
+2023-10-20,Lego Set,Toys,16,261.19,East
+2024-09-20,Children,Books,6,245.14,East
+2023-07-28,Fiction,Books,12,25.38,South
+2024-01-03,Board Game,Toys,3,462.78,South
+2023-10-19,Lego Set,Toys,18,456.35,North
+2024-12-02,Smartphone,Electronics,7,43.14,East
+2024-06-24,Vacuum Cleaner,Home & Kitchen,14,277.43,South
+2023-12-30,Lego Set,Toys,19,127.57,East
+2024-06-19,Board Game,Toys,2,230.43,North
+2023-12-12,T-shirt,Clothing,8,12.59,North
+2023-09-07,Microwave,Home & Kitchen,1,406.88,South
+2023-04-08,Jacket,Clothing,17,376.91,North
+2024-09-21,Biography,Books,13,107.25,West
+2024-06-12,Microwave,Home & Kitchen,16,314.59,West
+2024-06-09,Headphones,Electronics,6,241.74,North
+2024-03-19,Headphones,Electronics,18,170.57,West
+2024-06-25,Vacuum Cleaner,Home & Kitchen,17,80.36,West
+2022-12-09,Blender,Home & Kitchen,8,226.75,North
+2023-02-06,Smartphone,Electronics,6,30.08,East
+2023-07-13,Dress,Clothing,4,369.41,South
+2024-05-12,Fiction,Books,16,464.98,West
+2023-03-06,Jeans,Clothing,2,177.26,South
+2023-01-02,Cookware Set,Home & Kitchen,3,196.05,South
+2023-07-31,Action Figure,Toys,9,157.67,North
+2024-03-11,Non-Fiction,Books,17,414.55,West
+2024-09-20,Non-Fiction,Books,17,368.29,North
+2022-12-05,Biography,Books,15,128.11,North
+2023-12-31,RC Car,Toys,3,295.49,West
+2024-09-15,Children,Books,10,29.98,West
